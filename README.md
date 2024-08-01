@@ -1,16 +1,14 @@
-## Hi there 👋
+## boas vindas ao meu perfil ! 🐿️💟
 
-<!--
-**jijica-canjica/jijica-canjica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Giovanna !
 
-Here are some ideas to get you started:
+- meu apelido é "jijica";
+- meus pronomes são ela/dela e ele/dele;
+- eu amo minha coelhinha (mia colucci).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## você pode entrar em contato comigo 📫
+
+00001124668974sp@al.educacao.sp.gov.br
+
+
+![](https://media1.tenor.com/m/9nv_x-R16hcAAAAC/stray-kids-skz.gif)
